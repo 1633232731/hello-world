@@ -1,2 +1,3 @@
 # hello-world
-helloworld with github
+helloworld和github
+First time cotacting github.
